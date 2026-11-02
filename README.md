@@ -22,7 +22,7 @@ Generar cada día un listado de pedido sugerido por producto, explicable y fáci
 
 - Entrada: reporte de ventas por producto y por día, e inventario actual.
 - Salida: tabla con producto, venta diaria promedio, stock actual y cantidad sugerida a pedir.
-- Lógica basada en reglas claras (sin modelos de predicción).
+- Lógica: Usa una fórmula sencilla y explicable, sin inteligencia artificial.
 
 ## Datos necesarios
 
